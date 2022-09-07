@@ -1,4 +1,4 @@
-# Student-attendence-and-result-management-system
+# Student Attendence and Result Management System
 
 # SCREENSHOTS
 
